@@ -1,1 +1,15 @@
-
+h1 {
+    color: aqua;
+    margin-left: 20px;
+    background-color: azure;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+}
+ul {
+    font-size: 35px;
+    font-family: "Arial", Verdana, sans-serif;
+}
